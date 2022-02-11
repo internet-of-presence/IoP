@@ -35,7 +35,7 @@ I often lost my hope into the humans and the whole world i gave up many times bu
 
 
 ## How?
-The Core Tech behind it is that Quic will work with and without Http3 so we can introduce a whole internet based on Quic which is similar to WebRTC which is used today to do live chats and video multimedia streaming and also p2p blockchain and all kind of other stuff it is Really the Internet 2.0 as the 1.0 was TCP/IP HTTP based the Internet 2.0 (My Real versioning) is now able to work with other protocols UDP and the internet is no longer bound to the presänter Protocol HTTP.
+The Core Tech behind it is that Quic will work with and without Http3 so we can introduce a whole internet based on Quic which is similar to WebRTC which is used today to do live chats and video multimedia streaming and also p2p blockchain and all kind of other stuff it is Really the Internet 2.0 as the 1.0 was TCP/IP HTTP based the Internet 2.0 (My Real versioning) is now able to work with other protocols UDP and the internet is no longer bound to the presenter Protocol HTTP.
 
 A little Example lets drop the Web Browser lets imagin it does not exist while messengers exist.
 
