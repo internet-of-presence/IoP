@@ -34,3 +34,17 @@ I often lost my hope into the humans and the whole world i gave up many times bu
 
 
 
+## How?
+The Core Tech behind it is that Quic will work with and without Http3 so we can introduce a whole internet based on Quic which is similar to WebRTC which is used today to do live chats and video multimedia streaming and also p2p blockchain and all kind of other stuff it is Really the Internet 2.0 as the 1.0 was TCP/IP HTTP based the Internet 2.0 (My Real versioning) is now able to work with other protocols UDP and the internet is no longer bound to the presänter Protocol HTTP.
+
+A little Example lets drop the Web Browser lets imagin it does not exist while messengers exist.
+
+Long years befor i Invented a Protocol Draft to replace HTTP with WASM over HTTP so that we Expose directly the Graphic hardware via Vulkan API's and OpenGL all this low level internals and allow a remote software to directly draw to the context without a interpreter between that the client is not aware how the pixels come to life.
+
+Based on my research on that i can now clear say we can Eliminate all Web Browser and Implement Quic into everything and this way allow directly connections between diffrent software without a man in the middel and with custom even obfusicated (TOR Network) Routing logic. The Only way to censor then is droping Physical Connections via Wire or blocking wlan and maybe EmP the whole Area. But i also worked with the CCC and Many other People on Building Blocks (Kits) and Guides to create new Physical Connections without the need of a Authority to do so.
+
+I was also working on such Project with Chineese People that where researching Internet over Email Protocols. 
+
+## Collections of Moments as the vision got real
+Often i was working with google Products on Google Products and realised that gmail is a good example how a simple communication protocol can be abstracted into something more powerfull for example they did link hangouts directly with logging into gmail this way it was unified no matter if the message was from the hangouts protocol or mail protocol everything is simply a message stored some where in some formart. 
+
