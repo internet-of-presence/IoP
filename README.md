@@ -1,7 +1,7 @@
 # IoP
 IoP is the short term for Internet of Presence - Internet 4.0 + Industrie 5.0 - IoT
 
-The Term got invented 2022 by Frank Lemanschik a German Engineer who researched over 30 years on DeFi Solutions and Decentral Social Systems aka Liberty.
+The Term got invented 2022 by Frank Lemanschik a German Engineer who researched over 30 years on DeFi Solutions and Decentral Social Systems aka Liberty. He spend also a lot of years with the Conception and Planning of Tooling to Imrpove Release Speed and Maintance Cycles as also develop software faster time to market.
 
 ## List of Projects that lead to this final Draft
 Maybe the following list will never make full sense for a lot of people but for me as of time of writing this it makes a lot of sense because all this Projects got started as i got the vision that it is do able Platforms like Twitch Growed Tik Tok and so on. I Simply now joined this Trends with my Current Visions and Projects
